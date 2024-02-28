@@ -1,1 +1,1 @@
-# 48.02
+# DETR & CLIP for HOI Detection
