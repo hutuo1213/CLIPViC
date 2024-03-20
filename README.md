@@ -1,6 +1,9 @@
 # CLIPViC (CLIP & PViC)
 This is the official implementation code for CLIPViC.
 
+## Status
+Currently, we present the model's architecture and mAP. The relevant code is being cleaned up.
+
 <img src="./assets/clip4hoi.png" align="center" height="300">
 
 |Model|Dataset|Backbone|Default Settings|
