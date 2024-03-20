@@ -1,5 +1,5 @@
 # CLIPViC (CLIP & PViC)
-This is the official implementation code for CLIPViC.
+> This is the official implementation code for CLIPViC.
 
 ## Status
 Currently, we present the model's architecture and mAP. The relevant code is being cleaned up.
