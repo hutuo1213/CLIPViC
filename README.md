@@ -1,5 +1,5 @@
-# DETR & CLIP for HOI Detection
-This is the official implementation code for DETR & CLIP for HOI Detection.
+# CLIPViC (CLIP & PViC)
+This is the official implementation code for CLIPViC.
 
 <img src="./assets/clip4hoi.png" align="center" height="300">
 
