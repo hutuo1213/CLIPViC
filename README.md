@@ -1,4 +1,4 @@
-# CLIPViC (CLIP & PViC)
+# CLIPViC (CLIP & PViC) for Human-Object Interaction Detection
 > This is the official implementation code for CLIPViC.
 
 ## Status
