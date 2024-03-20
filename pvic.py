@@ -6,7 +6,7 @@ Fred Zhang <frederic.zhang@anu.edu.au>
 The Australian National University
 Microsoft Research Asia
 """
-
+#CLIPViC
 import os
 import torch
 import torch.nn.functional as F
