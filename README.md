@@ -2,7 +2,7 @@
 > This is the official implementation code for CLIPViC.
 
 ## Status
-Currently, we present the model's architecture and mAP. The relevant code is being cleaned up.
+We don't update the code anymore. Please contact quanhutuo@qq.com (emil) with any questions.
 
 <img src="./assets/clip4hoi.png" align="center" height="300">
 
