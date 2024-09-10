@@ -5,6 +5,7 @@
 We don't update the code anymore. Please contact quanhutuo@qq.com (emil) with any questions.
 
 <img src="./assets/clip4hoi.png" align="center" height="300">
+<img src="./assets/clipvic.png" align="center" height="300">
 
 |Model|Dataset|Backbone|Default Settings|
 |:-|:-:|:-:|:-:|
