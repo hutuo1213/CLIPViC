@@ -18,3 +18,6 @@ We don't update the code anymore. Please contact quanhutuo@qq.com (emil) with an
 |Ours|V-COCO|ResNet50+B/32|`60.5`|`66.2`|
 |Ours|V-COCO|ResNet50+B/16|`61.0`|`66.7`|
 |Ours|V-COCO|Swin-L+L/14@336|`63.0`|`69.4`|
+
+## Acknowledgement
+Many thanks to Researcher Zhang for the valuable advice.
